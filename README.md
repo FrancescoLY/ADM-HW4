@@ -13,6 +13,6 @@ The repository contains the following files:
                   
            > It contains the python notebook with the runned cells of the Hashing part.
 
-##Group #15
+## Group #15
 Francesco Lauro - 1706784
 Lorenzo Garcia Condoluci - 1808446
