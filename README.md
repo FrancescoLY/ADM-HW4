@@ -8,3 +8,7 @@ Goal of the homework: write important algorithms and functions from scratch.
 ## File Descriptions
 
 The repository contains the following files:
+
+1. `HW4.pt1.ipynb`:
+                  
+           > It contains the python notebook with the runned cells of the Hashing part.
