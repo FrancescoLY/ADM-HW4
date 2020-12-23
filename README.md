@@ -12,14 +12,12 @@ The repository contains the following files:
 1. `HW4.pt1.ipynb`:
                   
            > It contains the python notebook with the runned cells of the Hashing part.
+    nbviewer link :
+      https://nbviewer.jupyter.org/github/FrancescoLY/ADM-HW4/blob/main/HW4.pt1.ipynb
 2. `HM4.pt2.ipynb`:
   
            > It contains the python notebook with the runned cells of the Clustering and Algorithmic question.
            
-## nbviewer links:
-`HW4.pt1.ipynb`:
-https://nbviewer.jupyter.org/github/FrancescoLY/ADM-HW4/blob/main/HW4.pt1.ipynb
-
 ## Group #15
 Francesco Lauro - 1706784  
 Lorenzo Garcia Condoluci - 1808446
