@@ -12,7 +12,7 @@ The repository contains the following files:
 1. `HW4.pt1.ipynb`:
                   
            > It contains the python notebook with the runned cells of the Hashing part.
-2. `HW4.pt2.ipynb`:
+2. `HM4.pt2.ipynb`:
   
            > It contains the python notebook with the runned cells of the Clustering and Algorithmic question.
            
